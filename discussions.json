@@ -2302,5 +2302,9 @@
 	"appVolumeConsole": {
 		"discussionId": "D_kwDODeB9Us4AqRIc",
 		"discussionUrl": "https://github.com/nvaccess/addon-datastore/discussions/12324"
+	},
+	"googleTtsForNvda": {
+		"discussionId": "D_kwDOVRxyac4AqUKZ",
+		"discussionUrl": "https://github.com/nvaccess/test-addon-datastore-submitters/discussions/3"
 	}
 }
