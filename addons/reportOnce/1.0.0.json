@@ -35,5 +35,6 @@
 			"description": "NVDA ayarlarının Nesne sunumu kategorisine bir onay kutusu ekler. Etkinleştirildiğinde, NVDA aynı hiyerarşik seviyedeki nesneler için nesne konum bilgisini yalnızca bir kez bildirir.",
 			"changelog": "\nİlk sürüm.\n"
 		}
-	]
+	],
+	"reviewUrl": "https://github.com/nvaccess/test-addon-datastore-submitters/discussions/9"
 }

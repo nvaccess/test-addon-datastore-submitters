@@ -2310,5 +2310,9 @@
 	"githubForNVDA": {
 		"discussionId": "D_kwDOVRxyac4AqUK6",
 		"discussionUrl": "https://github.com/nvaccess/test-addon-datastore-submitters/discussions/8"
+	},
+	"reportOnce": {
+		"discussionId": "D_kwDOVRxyac4AqUK_",
+		"discussionUrl": "https://github.com/nvaccess/test-addon-datastore-submitters/discussions/9"
 	}
 }
