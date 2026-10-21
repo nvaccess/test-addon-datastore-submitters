@@ -1982,7 +1982,8 @@
 	"7090342": {
 		"addons": [
 			"googleTtsForNvda",
-			"githubForNVDA"
+			"githubForNVDA",
+			"reportOnce"
 		],
 		"githubName": "seanbudd"
 	}
