@@ -1981,7 +1981,8 @@
 	},
 	"7090342": {
 		"addons": [
-			"googleTtsForNvda"
+			"googleTtsForNvda",
+			"githubForNVDA"
 		],
 		"githubName": "seanbudd"
 	}
