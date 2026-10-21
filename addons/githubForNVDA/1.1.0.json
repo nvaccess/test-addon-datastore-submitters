@@ -28,5 +28,6 @@
 	"changelog": "First release in this numbering. Notification checks every 15 or 30 seconds; Background announcements filter; commands to check for notifications now and to pause or resume announcements; notifications list can show only items that involve you, and can copy a link; clearer message when the token cannot read notifications; no default keyboard shortcuts, so users assign every command in Input gestures",
 	"licenseURL": "https://www.gnu.org/licenses/gpl-2.0.html",
 	"submissionTime": 1792562247000,
-	"translations": []
+	"translations": [],
+	"reviewUrl": "https://github.com/nvaccess/test-addon-datastore-submitters/discussions/8"
 }
