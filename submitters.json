@@ -1978,5 +1978,11 @@
 			"appVolumeConsole"
 		],
 		"githubName": "bagcifahri"
+	},
+	"7090342": {
+		"addons": [
+			"googleTtsForNvda"
+		],
+		"githubName": "seanbudd"
 	}
 }
